@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ZCY-FE/fool-proofing-hooks.git"
+    "url": "git+https://github.com/Jiang-x/fool-proofing-hooks.git"
   },
   "keywords": [
     "react",
@@ -17,9 +17,9 @@
   "author": "Jiango",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ZCY-FE/fool-proofing-hooks/issues"
+    "url": "https://github.com/Jiang-x/fool-proofing-hooks/issues"
   },
-  "homepage": "https://github.com/ZCY-FE/fool-proofing-hooks#readme",
+  "homepage": "https://github.com/Jiang-x/fool-proofing-hooks#readme",
   "devDependencies": {
     "react": "^18.3.1"
   }
